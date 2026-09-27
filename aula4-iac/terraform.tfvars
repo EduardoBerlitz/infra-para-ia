@@ -1,6 +1,7 @@
 # Valores desta dupla. Edite antes do primeiro plan.
 # Mude só o que está entre aspas, sem mexer nos espaços em volta do sinal de
 # igual, porque o workflow confere a formatação do arquivo com terraform fmt.
+# Atividade aula 04
 
 # Troque por um apelido em minúsculas, sem espaço, de 3 a 12 caracteres.
 # Por exemplo: anaejoao
